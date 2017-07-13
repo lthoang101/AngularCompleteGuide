@@ -1,0 +1,25 @@
+{
+  "name": "angularcompleteguide",
+  "version": "1.0.0",
+  "description": "Tutorial for Udemy: Angular Complete Guide",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lthoang101/AngularCompleteGuide.git"
+  },
+  "keywords": [
+    "tutorial",
+    "angular"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lthoang101/AngularCompleteGuide/issues"
+  },
+  "homepage": "https://github.com/lthoang101/AngularCompleteGuide#readme"
+}
